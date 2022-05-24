@@ -12,4 +12,8 @@
 
 <img src="photo/1.png" >
 
-![](C:\Users\admin\Desktop\git\photo\2.png)
+
+
+
+
+![](photo\2.png)
