@@ -9,3 +9,7 @@
 看界面
 
 
+
+<img src="photo/1.png" >
+
+![](C:\Users\admin\Desktop\git\photo\2.png)
