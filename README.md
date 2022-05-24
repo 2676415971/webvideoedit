@@ -16,4 +16,4 @@
 
 
 
-![](photo\2.png)
+<img src="photo/2.png" >
